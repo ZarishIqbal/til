@@ -6,4 +6,9 @@ variety of languages and technologies.
 ---
 
 ### React
-- [Portals](https://reactjs.org/docs/portals.html)
+
+- [Portals](React/Portals.md)
+
+### Random Questions
+
+- [What is DOM?](Random/DOM.md)
