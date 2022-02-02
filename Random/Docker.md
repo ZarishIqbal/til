@@ -51,3 +51,5 @@
 >
 > Each time Docker launches a container from an image, it adds a thin writable layer, known as the container layer, which stores all changes to the container throughout its runtime. As this layer is the only difference between a live operational container and the source Docker image itself, any number of like-for-like containers can potentially share access to the same underlying image while maintaining their own individual state.
 > ![Container Layer](../assests/docker-container-layer.jpg)
+
+### [How to create a docker image?](DockerImage.md)
