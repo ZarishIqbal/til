@@ -1,6 +1,6 @@
 ### [Portals](https://reactjs.org/docs/portals.html)
 
-Portals provide a way to render a children into a dom node which exist outside the DOM hierarchy of the parent component.
+Portals provide a way to render children into a dom node that exists outside the DOM hierarchy of the parent component.
 
 `ReactDOM.createPortal(child, container)`
 
@@ -92,7 +92,7 @@ function Child() {
 ReactDOM.render(<Parent />, appRoot);
 ```
 
-Output html: Even when the `handler` and `button` are not direct descendant of the same parent, event bubbling allows the code to function as its supposed to.
+Output HTML: Even when the `handler` and `button` are not a direct descendant of the same parent, event bubbling allows the code to function as it is supposed to.
 
 ```html
 <div id="app-root">
