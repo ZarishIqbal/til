@@ -8,6 +8,7 @@ variety of languages and technologies.
 ### React
 
 - [Portals](React/Portals.md)
+- [Context](React/Context.md)
 
 ### Random Questions
 
