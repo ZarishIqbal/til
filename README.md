@@ -10,6 +10,10 @@ variety of languages and technologies.
 - [Portals](React/Portals.md)
 - [Context](React/Context.md)
 
+### Javascript
+
+- [Transpilers and Polyfills](Javascript/Transpilers-and-Polyfills.md)
+
 ### Random Questions
 
 - [What is DOM?](Random/DOM.md)
