@@ -21,7 +21,7 @@ variety of languages and technologies.
 
 ### Random Questions
 
-- [General] (Random/General.md)
+- [General](Random/General.md)
 - [What is DOM?](Random/DOM.md)
 - [Docker](Random/Docker.md)
 - [How to create a docker image?](Random/DockerImage.md)
