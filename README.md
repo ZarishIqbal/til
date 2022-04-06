@@ -14,6 +14,10 @@ variety of languages and technologies.
 
 - [Transpilers and Polyfills](Javascript/Transpilers-and-Polyfills.md)
 
+### Angular
+
+- [Fundamentals](Angular/Fundamentals.md)
+
 ### Random Questions
 
 - [What is DOM?](Random/DOM.md)
