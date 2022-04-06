@@ -17,9 +17,11 @@ variety of languages and technologies.
 ### Angular
 
 - [Fundamentals](Angular/Fundamentals.md)
+- [AngularJS - Fundamentals](AngularJS/Fundamentals.md)
 
 ### Random Questions
 
+- [General] (Random/General.md)
 - [What is DOM?](Random/DOM.md)
 - [Docker](Random/Docker.md)
 - [How to create a docker image?](Random/DockerImage.md)
