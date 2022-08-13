@@ -13,4 +13,4 @@ AngularJS is a structural framework for dynamic web apps. It lets you use HTML a
 - Dependency injection - creates and wires objects and functions
 - Injector - dependency injection container
 - Module - a container for the different part of an app including controllers, services, filters, directives which configures the Injector
-- Service - reusable business logic independent of views
+- [Service](Service.md) - reusable business logic independent of views
